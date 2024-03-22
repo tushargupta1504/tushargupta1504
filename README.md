@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on many Projects 
-- 📫 How to reach me - https://linkedin.com/in/tushar1504 ,
+- 📫 How to reach me - https://linkedin.com/in/tushar1504 
