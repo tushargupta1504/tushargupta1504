@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tushar Gupta  .
+- 👋 Hi, I’m Tushar Gupta  . 
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on many Projects 
