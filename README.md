@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Tushar Gupta  . 
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on many Projects 
-- 📫 How to reach me - https://linkedin.com/in/tushar1504
+
 
 - <h1 align="center">Hi 👋, I'm Tushar </h1>
 <h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lora&size=24&pause=1000&color=F70407&vCenter=true&random=false&width=435&lines=Full+stack+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Tech+Enthusiast%F0%9F%92%BB%F0%9F%92%BB;Contributor%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Developer%F0%9F%92%BB;Upcoming+Software+Engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h3>
@@ -13,8 +9,7 @@
 
 - 📫 Reach me **tushar002354@hotmail.com**
 
-- 📄 Know about my experiences
-- 
+- 📄 Know about my experiences - https://linkedin.com/in/tushar1504
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
