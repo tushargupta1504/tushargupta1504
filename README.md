@@ -39,5 +39,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushargupta1504&" alt="tushargupta1504" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushargupta1504" alt="tushargupta1504" /></a> </p><br><br>
+
 ..
