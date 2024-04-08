@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tushar002354@gmail.com**
 
-- 📄 Know about my experiences in my <a href="https://linkedin.com/in/tushar1504" target="_blank">resume</a>
+- 📄 Know about my experiences in my <a href="https://linkedin.com/in/tushar1504" target="_blank"> linkedin </a>
 
 
 - ⚡ Fun fact **I enjoy dancing—it's a fun and expressive way to connect with music and emotions**
