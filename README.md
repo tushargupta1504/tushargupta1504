@@ -8,7 +8,7 @@
 
 <p align="left"> <a href=" https://twitter.com/tushargupta1504 " target="blank"><img src="https://img.shields.io/twitter/follow/tushargupta1504?logo=twitter&style=for-the-badge" alt="tushargupta1504" /></a> </p>
 
-- 🔭Reach me on Linkedin to get an reply with in hour
+- ., Reach me on Linkedin to get an reply with in hour
 
 - 🔭 I’m currently working on **Natural Language Processing** and **Large Language Models(LLMs)**
 
