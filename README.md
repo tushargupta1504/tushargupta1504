@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence Projects** and more
 
-- 💬 Ask me only **After you have Googled/binged it!😏😬 **
+- 💬 Ask me only **After you have Googled/binged it! 😏😬 **
 
 - 📫 How to reach me **tushar002354@gmail.com**
 
